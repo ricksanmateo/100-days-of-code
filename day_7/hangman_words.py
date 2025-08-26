@@ -1,0 +1,1 @@
+word_list = ["ardvark", "baboon", "camel", "duck", "elephant", "giraffe", "hippo", "kangaroo", "lion", "monkey", "panda", "quokka", "rhino", "sloth", "tiger", "unicorn", "vulture", "walrus", "xenomorph", "yak", "zebra"]
